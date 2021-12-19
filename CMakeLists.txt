@@ -1,0 +1,1 @@
+idf_component_register(INCLUDE_DIRS upstream SRCS upstream/DallasTemperature.cpp REQUIRES arduino OneWire)
